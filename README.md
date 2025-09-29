@@ -12,5 +12,3 @@ A execução termina quando o usuário digita **`fim`**.
 - **Sockets** para comunicação em rede
 
 ---
-
-## 📂 Estrutura do projeto
